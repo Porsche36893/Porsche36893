@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Aspiring Data Science Student ---
+### Aspiring Data Science Student 
+---
 📍 Bangkok, Thailand\
 📧 Email: 6542023426@student.chula.ac.th\
 🔗 LinkedIn: [Chananon Wongkondee](https://www.linkedin.com/in/chananon-wongkondee-124679332/)\
