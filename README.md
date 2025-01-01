@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Aspiring Data Science Student 
----
-
-📍 Bangkok, Thailand/
-📧 Email: 6542023426@student.chula.ac.th/
-🔗 LinkedIn: [Chananon Wongkondee](https://www.linkedin.com/in/chananon-wongkondee-124679332/)/
-👨‍💻 GitHub: [Porsche36893](https://github.com/Porsche36893)/
+### Aspiring Data Science Student ---
+📍 Bangkok, Thailand\
+📧 Email: 6542023426@student.chula.ac.th\
+🔗 LinkedIn: [Chananon Wongkondee](https://www.linkedin.com/in/chananon-wongkondee-124679332/)\
+👨‍💻 GitHub: [Porsche36893](https://github.com/Porsche36893)\
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Porsche36893)](https://github.com/Porsche36893/github-readme-stats)
