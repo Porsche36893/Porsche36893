@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 📍 Bangkok, Thailand\
 📧 Email: 6542023426@student.chula.ac.th\
 🔗 LinkedIn: [Chananon Wongkondee](https://www.linkedin.com/in/chananon-wongkondee-124679332/)\
-👨‍💻 GitHub: [Porsche36893](https://github.com/Porsche36893)\
+👨‍💻 GitHub: [Porsche36893](https://github.com/Porsche36893)
 
 ## Education
 B.S., Statistics, Chulalongkorn University (2022 - Present)
