@@ -33,7 +33,7 @@ Programs: Power BI, Microsoft Office, VSCode, Github, Google Colab, PostgreSQL
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Porsche36893&show_icons=true&theme=radical)
 
 ## Projects From Chananon Wongkondee
-### 1. SCCU Annual Student Survey Projects
+### 1. [SCCU Annual Student Survey Projects](https://github.com/Porsche36893/SCCU-Data-Department)
 
 #### Tools Use : 
 - Python (Pandas)
@@ -44,7 +44,7 @@ Programs: Power BI, Microsoft Office, VSCode, Github, Google Colab, PostgreSQL
 - Survey Process
 - Prescriptive Statistics
 
-### 2. Predicting Residential Property Values in Ames, Iowa
+### 2. [Predicting Residential Property Values in Ames, Iowa](https://github.com/Porsche36893/Predicting-Residential-Property-Values-in-Aimes-Iowa)
 https://aimeshomeai.streamlit.app/
 #### Tools Use :
 - Python (Scikit Learn, Pandas, Matplotlib, Streamlit)
@@ -56,7 +56,7 @@ https://aimeshomeai.streamlit.app/
 - Model Deployment
 - Web App Development
 
-### 3. Time Series Analysis on Okara Price from 2013 to 2021
+### 3. [Time Series Analysis on Okara Price from 2013 to 2021](https://github.com/Porsche36893/Okara-Price-A-Time-Series-Analysis)
 #### Tools Use :
 - R (Tidyverse, fpp3)
 - Python (Keras, Tensorflow)
@@ -64,7 +64,7 @@ https://aimeshomeai.streamlit.app/
 - Time Series Analysis (ARIMA, ETS)
 - Deep Learning (GRUs)
 
-### 4. Statistical Study of Heart Failure 	
+### 4. [Statistical Study of Heart Failure](https://github.com/Porsche36893/Statistical-Study-of-Heart-Failure)
 #### Tools Use :
 - R (Tidyverse, MICE)
 #### Skills: 
