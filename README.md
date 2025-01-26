@@ -29,8 +29,6 @@ B.S., Statistics, Chulalongkorn University (2022 - Present)
 Languages: Python, SQL, R\
 Programs: Power BI, Microsoft Office, VSCode, Github, Google Colab, PostgreSQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Porsche36893)](https://github.com/Porsche36893/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Porsche36893&show_icons=true&theme=radical)
 
 ## Projects From Chananon Wongkondee
 ### 1. [SCCU Annual Student Survey Projects](https://github.com/Porsche36893/SCCU-Data-Department)
