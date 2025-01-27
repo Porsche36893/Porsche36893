@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Chananon Wongkondee
 
 <!--
 **Porsche36893/Porsche36893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Aspiring Data Science Student 
+### Aspiring Data Science Student | Machine Learning Prodigy | Data Visualization Enjoyer | 
 ---
 📍 Bangkok, Thailand\
 📧 Email: 6542023426@student.chula.ac.th\
