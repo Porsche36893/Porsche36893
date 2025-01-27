@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Aspiring Data Science Student | Machine Learning Prodigy | Data Visualization Enjoyer | 
+### Aspiring Data Science Student | Machine Learning Prodigy | Data Visualization Enjoyer | Data Connoisseur
 ---
 📍 Bangkok, Thailand\
 📧 Email: 6542023426@student.chula.ac.th\
