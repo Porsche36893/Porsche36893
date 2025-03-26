@@ -31,7 +31,7 @@ Programs: Power BI, Microsoft Office, VSCode, Github, Google Colab, PostgreSQL
 
 
 ## Projects From Chananon Wongkondee
-### 1. [CRC Case competition: Central Surprise (Finalist)](https://github.com/Porsche36893/CRC-Case-Competition)
+### 1. [CRC Case competition: Central Surprise](https://github.com/Porsche36893/CRC-Case-Competition)
 #### Tools Use : 
 - Python
 - MySQL
