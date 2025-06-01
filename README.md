@@ -83,7 +83,7 @@ https://aimeshomeai.streamlit.app/
 - Logistic Regression
 - Model Evaluation (Confusion Matrix, AUC, ROC)
 
-### 6. [Prediction of Transplant Survival Rates Equitably for Allogeneic HCT patients](https://github.com/Porsche36893/Statistical-Study-of-Heart-Failure)
+### 6. [Prediction of Transplant Survival Rates Equitably for Allogeneic HCT patients](https://github.com/Porsche36893/Prediction-of-Transplant-Survival-Rates-Equitably-for-Allogeneic-HCT-patientse)
 #### Tools Use :
 - Python (Scikit Learn, Pandas, Matplotlib, Streamlit)
 - Tensorflow, Keras
